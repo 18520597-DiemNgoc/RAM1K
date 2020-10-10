@@ -1,0 +1,205 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vD_latch
+Z1 I=_KWXdX[XLLHNNO7_f^M<1
+Z2 V7^V6U]TFTZPCNb>KDBU7T2
+Z3 dF:\CE213\RAM\Pre- Syns
+Z4 w1601782564
+Z5 8F:/CE213/RAM/Pre- Syns/D_latch.v
+Z6 FF:/CE213/RAM/Pre- Syns/D_latch.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@d_latch
+Z10 !s100 DV_Y^a5@9U_=1kz<RJNWJ3
+Z11 !s108 1601799844.025000
+Z12 !s107 F:/CE213/RAM/Pre- Syns/D_latch.v|
+Z13 !s90 -reportprogress|300|-work|work|F:/CE213/RAM/Pre- Syns/D_latch.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDecoder2to4
+Z14 !s100 YEf^nUoaC7422U94Ah@Zj3
+Z15 IkNG[M^zlkK]:5nd6`T4Y71
+Z16 VPkEG@^i9GiDCdHl7i5BDo1
+R3
+Z17 w1601782580
+Z18 8F:\CE213\RAM\Pre- Syns\Decoder2to4.v
+Z19 FF:\CE213\RAM\Pre- Syns\Decoder2to4.v
+L0 1
+R7
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|F:\CE213\RAM\Pre- Syns\Decoder2to4.v|
+R8
+Z21 n@decoder2to4
+Z22 !s108 1601799844.389000
+Z23 !s107 F:\CE213\RAM\Pre- Syns\Decoder2to4.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDecoder3to8
+Z24 !s100 G;`man^NEVGmc5:42PL^71
+Z25 Id?Dm`mmm2HBc]o<?P[?IH3
+Z26 VdR9Q`JR][@GYkD_lSF6;N0
+R3
+Z27 w1601782594
+Z28 8F:\CE213\RAM\Pre- Syns\Decoder3to8.v
+Z29 FF:\CE213\RAM\Pre- Syns\Decoder3to8.v
+L0 1
+R7
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|F:\CE213\RAM\Pre- Syns\Decoder3to8.v|
+R8
+Z31 n@decoder3to8
+Z32 !s108 1601799844.621000
+Z33 !s107 F:\CE213\RAM\Pre- Syns\Decoder3to8.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDecoder4to16
+Z34 !s100 CEhXc9^_1h]J@TeXHRcge1
+Z35 I=7PeeM6U^76hjC_el>?2:2
+Z36 VTBbXTP5AZ21=QQD0==HSf0
+R3
+Z37 w1601798181
+Z38 8F:\CE213\RAM\Pre- Syns\Decoder4to16.v
+Z39 FF:\CE213\RAM\Pre- Syns\Decoder4to16.v
+L0 1
+R7
+r1
+31
+Z40 !s90 -reportprogress|300|-work|work|F:\CE213\RAM\Pre- Syns\Decoder4to16.v|
+R8
+Z41 n@decoder4to16
+Z42 !s108 1601799844.855000
+Z43 !s107 F:\CE213\RAM\Pre- Syns\Decoder4to16.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDecoder8to256
+Z44 IPT@i]WgRHYLhWo^?gUMnN0
+Z45 Vn`4:`hIYMQz;9OTeLGYlN3
+R3
+Z46 w1601782649
+Z47 8F:/CE213/RAM/Pre- Syns/Decoder8to256.v
+Z48 FF:/CE213/RAM/Pre- Syns/Decoder8to256.v
+L0 1
+R7
+r1
+31
+R8
+Z49 n@decoder8to256
+Z50 !s100 E5QfDRjWCHkXT1O]@LJ^G3
+Z51 !s108 1601799845.124000
+Z52 !s107 F:/CE213/RAM/Pre- Syns/Decoder8to256.v|
+Z53 !s90 -reportprogress|300|-work|work|F:/CE213/RAM/Pre- Syns/Decoder8to256.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMC
+Z54 IM1ASK9Y_A>H=0OZ?`VjXE0
+Z55 VO`fd:flC3FZM;=5ffFN7o2
+R3
+Z56 w1601800318
+Z57 8F:\CE213\RAM\Pre- Syns\MC.v
+Z58 FF:\CE213\RAM\Pre- Syns\MC.v
+L0 1
+R7
+r1
+31
+Z59 !s90 -reportprogress|300|-work|work|F:\CE213\RAM\Pre- Syns\MC.v|
+R8
+n@m@c
+Z60 !s100 O9fTUel`6H7jL<4@lcZLH3
+Z61 !s108 1601800333.849000
+Z62 !s107 F:\CE213\RAM\Pre- Syns\MC.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRAM
+Z63 InM]QYZNPl9IT3JZOeYYV;3
+Z64 Vc<N9MUVXl><J3n2oFX5U91
+R3
+Z65 w1601894208
+Z66 8F:\CE213\RAM\Pre- Syns\RAM.v
+Z67 FF:\CE213\RAM\Pre- Syns\RAM.v
+L0 1
+R7
+r1
+31
+Z68 !s90 -reportprogress|300|-work|work|F:\CE213\RAM\Pre- Syns\RAM.v|
+R8
+Z69 n@r@a@m
+Z70 !s100 ?FNK^h^Y_kGC;BZ@<<8Oj3
+Z71 !s108 1601894216.414000
+Z72 !s107 F:\CE213\RAM\Pre- Syns\RAM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRWSel
+Z73 I4WC0KefDk2kV2RAYZYFMB3
+Z74 VgQH>>@XF:ne=?bkXjQGoW1
+R3
+Z75 w1601894239
+Z76 8F:\CE213\RAM\Pre- Syns\RWSel.v
+Z77 FF:\CE213\RAM\Pre- Syns\RWSel.v
+L0 1
+R7
+r1
+31
+Z78 !s90 -reportprogress|300|-work|work|F:\CE213\RAM\Pre- Syns\RWSel.v|
+R8
+Z79 n@r@w@sel
+Z80 !s100 ;DjB2JVdzmXdE7=oUVeKD0
+Z81 !s108 1601894245.668000
+Z82 !s107 F:\CE213\RAM\Pre- Syns\RWSel.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTestBench
+!i10b 1
+!s100 =zeTi8Hd6^K7O0FW=2cHQ0
+IaN;AUz2N6T@6L^RDkUGe92
+Z83 VPliQB0NZSDVQ2J_FG<JPH1
+R3
+w1601894268
+Z84 8F:\CE213\RAM\Pre- Syns\TestBench.v
+Z85 FF:\CE213\RAM\Pre- Syns\TestBench.v
+L0 3
+R7
+r1
+!s85 0
+31
+!s108 1601894274.946000
+!s107 F:\CE213\RAM\Pre- Syns\TestBench.v|
+Z86 !s90 -reportprogress|300|-work|work|F:\CE213\RAM\Pre- Syns\TestBench.v|
+!s101 -O0
+R8
+Z87 n@test@bench
+vWORD
+Z88 !s100 PjT0WPo01cPeF17?azMzz3
+Z89 IU;2LGQXmBef^UnKCHJmD=1
+Z90 V@8Q@o=POV]gDXn><3@5H60
+R3
+Z91 w1601782718
+Z92 8F:\CE213\RAM\Pre- Syns\WORD.v
+Z93 FF:\CE213\RAM\Pre- Syns\WORD.v
+L0 1
+R7
+r1
+31
+Z94 !s90 -reportprogress|300|-work|work|F:\CE213\RAM\Pre- Syns\WORD.v|
+R8
+Z95 n@w@o@r@d
+Z96 !s108 1601799845.611000
+Z97 !s107 F:\CE213\RAM\Pre- Syns\WORD.v|
+!i10b 1
+!s85 0
+!s101 -O0

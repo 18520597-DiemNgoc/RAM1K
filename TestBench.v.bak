@@ -1,0 +1,43 @@
+`timescale 1ns/1ns
+
+module TestBench(); 
+  parameter n = 8;
+  reg EN_tb, RWS_tb, CS_tb, CLK_tb;
+  reg [(n - 1):0] INOUT_tb;
+  reg [9:0] Addr_tb;
+
+  wire [(n - 1):0] OUT_tb;
+ 
+  
+  initial begin
+    CLK_tb = 1; 
+    CS_tb= 1;
+    EN_tb = 1;
+    RWS_tb = 1;
+    
+    #10 Addr_tb = 10'h1; INOUT_tb = 8'h10;
+    #20 Addr_tb = 10'h2; INOUT_tb = 8'h20;
+    #50 Addr_tb = 10'h5; INOUT_tb = 8'h35;
+    #70 Addr_tb = 10'h10; INOUT_tb = 8'h70;
+    #90 RWS_tb = 0; Addr_tb = 10'h2; INOUT_tb = 8'hx;
+    #120 Addr_tb = 10'h1; INOUT_tb = 8'h50;
+    #140 Addr_tb = 10'h2;
+    #170 Addr_tb = 10'h10;
+    #200 $finish;
+  end
+  
+  initial begin
+    $monitor("Time=%d, Address=%h, RWS=%b, DataIn=%h, DataOut=%h", $time, Addr_tb, RWS_tb, INOUT_tb, OUT_tb);
+  end
+  
+  always @(CLK_tb)
+    #10 CLK_tb <= ~CLK_tb;
+  
+  assign OUT_tb = RWS_tb? INOUT_tb : 8'bzzzzzzzz;
+  RAM DUT(.INOUT(OUT_tb), .IN_DEC(Addr_tb), .EN(EN_tb), .RWS(RWS_tb), .CS(CS_tb), .CLK(CLK_tb));
+  
+endmodule
+
+    
+    
+    

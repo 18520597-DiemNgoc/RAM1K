@@ -1,0 +1,71 @@
+{F:/CE213/RAM/Pre- Syns/RWSel.v} {1 {vlog -work work {F:\CE213\RAM\Pre- Syns\RWSel.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RWSel
+
+Top level modules:
+	RWSel
+
+} {} {}} {F:/CE213/RAM/Pre- Syns/Decoder8to256.v} {1 {vlog -work work {F:/CE213/RAM/Pre- Syns/Decoder8to256.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Decoder8to256
+
+Top level modules:
+	Decoder8to256
+
+} {} {}} {F:/CE213/RAM/Pre- Syns/Decoder2to4.v} {1 {vlog -work work {F:\CE213\RAM\Pre- Syns\Decoder2to4.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Decoder2to4
+
+Top level modules:
+	Decoder2to4
+
+} {} {}} {F:/CE213/RAM/Pre- Syns/D_latch.v} {1 {vlog -work work {F:/CE213/RAM/Pre- Syns/D_latch.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module D_latch
+
+Top level modules:
+	D_latch
+
+} {} {}} {F:/CE213/RAM/Pre- Syns/TestBench.v} {1 {vlog -work work {F:\CE213\RAM\Pre- Syns\TestBench.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TestBench
+
+Top level modules:
+	TestBench
+
+} {} {}} {F:/CE213/RAM/Pre- Syns/RAM.v} {1 {vlog -work work {F:\CE213\RAM\Pre- Syns\RAM.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RAM
+
+Top level modules:
+	RAM
+
+} {} {}} {F:/CE213/RAM/Pre- Syns/WORD.v} {1 {vlog -work work {F:\CE213\RAM\Pre- Syns\WORD.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module WORD
+
+Top level modules:
+	WORD
+
+} {} {}} {F:/CE213/RAM/Pre- Syns/Decoder3to8.v} {1 {vlog -work work {F:\CE213\RAM\Pre- Syns\Decoder3to8.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Decoder3to8
+
+Top level modules:
+	Decoder3to8
+
+} {} {}} {F:/CE213/RAM/Pre- Syns/Decoder4to16.v} {1 {vlog -work work {F:\CE213\RAM\Pre- Syns\Decoder4to16.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Decoder4to16
+
+Top level modules:
+	Decoder4to16
+
+} {} {}} {F:/CE213/RAM/Pre- Syns/MC.v} {1 {vlog -work work {F:\CE213\RAM\Pre- Syns\MC.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MC
+
+Top level modules:
+	MC
+
+} {} {}}
